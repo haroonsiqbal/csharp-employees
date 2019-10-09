@@ -1,0 +1,11 @@
+/Users/harooniqbal/workspace/csharp/exercises/employees/bin/Debug/netcoreapp3.0/employees
+/Users/harooniqbal/workspace/csharp/exercises/employees/bin/Debug/netcoreapp3.0/employees.deps.json
+/Users/harooniqbal/workspace/csharp/exercises/employees/bin/Debug/netcoreapp3.0/employees.runtimeconfig.json
+/Users/harooniqbal/workspace/csharp/exercises/employees/bin/Debug/netcoreapp3.0/employees.runtimeconfig.dev.json
+/Users/harooniqbal/workspace/csharp/exercises/employees/bin/Debug/netcoreapp3.0/employees.dll
+/Users/harooniqbal/workspace/csharp/exercises/employees/bin/Debug/netcoreapp3.0/employees.pdb
+/Users/harooniqbal/workspace/csharp/exercises/employees/obj/Debug/netcoreapp3.0/employees.csprojAssemblyReference.cache
+/Users/harooniqbal/workspace/csharp/exercises/employees/obj/Debug/netcoreapp3.0/employees.AssemblyInfoInputs.cache
+/Users/harooniqbal/workspace/csharp/exercises/employees/obj/Debug/netcoreapp3.0/employees.AssemblyInfo.cs
+/Users/harooniqbal/workspace/csharp/exercises/employees/obj/Debug/netcoreapp3.0/employees.dll
+/Users/harooniqbal/workspace/csharp/exercises/employees/obj/Debug/netcoreapp3.0/employees.pdb
